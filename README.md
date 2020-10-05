@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Francesco 👋
+
+I'm a software developer.
+
+## Find me around the web 🌎: 
+- Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
+- Visiting my web site <a href="https://francesco.scuccimarri.it">francesco.scuccimarri.it</a>
 
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
