@@ -6,7 +6,7 @@ I'm a software developer.
 This type of programming is very attractive to me. </br>
 Therefore several times I put myself in the game and I partecipated to:
 * <b>Google Hash Code</b></br> Google’s team-based programming competition that allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge.
-  * [Hash Code 2020 - Qualification Round](https://github.com/Competitive-Programming-2/klopotekhashcode2020.github.io) as Hub Organizer and Competitor
+  * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
   * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
   * [Hash Code 2027 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2017-QualificationRound) as Competitor
 * <b>Google Code Jam</b> </br> Google's longest running global coding competition, where programmers of all levels put their skills to the test.
