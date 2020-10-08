@@ -1,14 +1,13 @@
 ### Hi, I'm Francesco 👋
 
 I'm a software developer who is passionate about creating new stuff by using different technologies. </br>
-I work especially with web technologies and I like very much the world around the web.
-
+I work especially with web technologies and I like very much the world around the web.</br>
 When I can, I put myself in the game by partecipating to the challenges of competitive programming.
 
 
 ## Competitive Programming
 This type of programming is very attractive to me because it allows me to improve my problem solving skill. </br>
-I partecipated the following competition:
+I partecipated to the following competitions:
 * <b>Google Hash Code</b></br> Google’s team-based programming competition that allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge.
   * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
   * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
