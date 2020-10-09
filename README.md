@@ -15,10 +15,8 @@ I partecipated to the following competitions:
 * <b>Google Code Jam</b> </br> Google's longest running global coding competition, where programmers of all levels put their skills to the test.
   * [Code Jam 2020 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2020-QualificationRound) 
   * [Code Jam 2017 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/Competitive-Programming-2/CodeJam2017-Round1A)
-* <b>HackerRank</b>
-  * <i>Week of Code 37 2018</i>
-  * <i>Codesprint 5 2018</i>
-  * Several other problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i>
+* <b>HackerRank</b> </br> It is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains.
+  * Several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i>
   * You can see my [HackerRank profile](https://www.hackerrank.com/frascu) for the details
 * <b> Amazon Interview </b> 
   * Repository (work in progress)
