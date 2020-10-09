@@ -13,8 +13,8 @@ I partecipated to the following competitions:
   * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
   * [Hash Code 2017 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2017-QualificationRound) as Competitor
 * <b>Google Code Jam</b> </br> Google's longest running global coding competition, where programmers of all levels put their skills to the test.
-  * [Code Jam 2020 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/Competitive-Programming-2/CodeJam2017-Round1A)
-  * [Code Jam 2017 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2020-QualificationRound)
+  * [Code Jam 2020 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2020-QualificationRound) 
+  * [Code Jam 2017 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/Competitive-Programming-2/CodeJam2017-Round1A)
 * <b>HackerRank</b>
   * <i>Week of Code 37 2018</i>
   * <i>Codesprint 5 2018</i>
