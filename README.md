@@ -19,11 +19,10 @@ I partecipated to the following competitions:
 It is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains. I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
 * <b> Amazon Interview </b> 
   * [Amazon Interview 2018](https://github.com/Competitive-Programming-2/amazon-interview-2018)
-  
 
-## Find me around the web 🌎: 
+## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
-- Visiting my web site <a href="https://francesco.scuccimarri.it">francesco.scuccimarri.it</a>
+- Visiting my [web site](https://francesco.scuccimarri.it) 🌎
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
