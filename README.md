@@ -9,6 +9,7 @@ When I can, I put myself in the game by participating to the challenges of compe
 This type of programming is very attractive to me because it allows me to improve my problem solving skill. </br>
 I partecipated to the following competitions:
 * <b>Google Hash Code</b></br> Google’s team-based programming competition that allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge.
+  * [Advent of Code 2020](https://github.com/frascu/Advent-of-Code-2020) - in progress... :arrows_counterclockwise:
   * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
   * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
   * [Hash Code 2017 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2017-QualificationRound) as Competitor
