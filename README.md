@@ -22,6 +22,11 @@ It is a place where programmers from all over the world come together to solve p
 * <b> Amazon Interview </b> 
   * [Amazon Interview 2018](https://github.com/Competitive-Programming-2/amazon-interview-2018)
 
+## Contributions
+ * **Azure SDK for Java**
+   * [Azure Service Bus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22)
+   * [Azure Storage](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage)
+
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://francesco.scuccimarri.it) 🌎
