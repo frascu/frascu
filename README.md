@@ -9,8 +9,8 @@ When I can, I put myself in the game by participating to the challenges of compe
 This type of programming is very attractive to me because it allows me to improve my problem solving skill. </br>
 I partecipated to the following competitions:
 * <b> Advent of Code</b> </br>Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
-  * [Advent of Code 2020](https://github.com/frascu/Advent-of-Code-2020) - in progress... :arrows_counterclockwise:
-* <b>Google Hash Code</b></br> Google’s team-based programming competition that allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge.
+  * [Advent of Code 2020](https://github.com/frascu/Advent-of-Code-2020)
+* <b>Google Hash Code</b></br> Google’s team-based programming competition to solve a problem modeled off a real Google engineering challenge.
   * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
   * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
   * [Hash Code 2017 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2017-QualificationRound) as Competitor
@@ -24,8 +24,8 @@ It is a place where programmers from all over the world come together to solve p
 
 ## Contributions
  * **Azure SDK for Java**
-   * [Azure Service Bus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22)
-   * [Azure Storage](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage)
+   * [Azure Service Bus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
+   * [Azure Storage](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
 
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
