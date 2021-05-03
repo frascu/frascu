@@ -9,18 +9,18 @@ When I can, I put myself in the game by participating to the challenges of compe
 This type of programming is very attractive to me because it allows me to improve my problem solving skill. </br>
 I partecipated to the following competitions:
 * <b> Advent of Code</b> </br>Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
-  * [Advent of Code 2020](https://github.com/frascu/Advent-of-Code-2020)
+  * [Advent of Code 2020](https://github.com/frascu-competitive-programming/Advent-of-Code-2020)
 * <b>Google Hash Code</b></br> Google’s team-based programming competition to solve a problem modeled off a real Google engineering challenge.
   * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
-  * [Hash Code 2018 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2018-QualificationRound) as Competitor
-  * [Hash Code 2017 - Qualification Round](https://github.com/Competitive-Programming-2/HashCode2017-QualificationRound) as Competitor
+  * [Hash Code 2018 - Qualification Round](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound) as Competitor
+  * [Hash Code 2017 - Qualification Round](https://github.com/frascu-competitive-programming/HashCode2017-QualificationRound) as Competitor
 * <b>Google Code Jam</b> </br> Google's longest running global coding competition, where programmers of all levels put their skills to the test.
-  * [Code Jam 2020 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2020-QualificationRound) 
-  * [Code Jam 2017 - Qualification Round](https://github.com/Competitive-Programming-2/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/Competitive-Programming-2/CodeJam2017-Round1A)
+  * [Code Jam 2020 - Qualification Round](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound) 
+  * [Code Jam 2017 - Qualification Round](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A)
 * <b>HackerRank</b> </br> 
 It is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains. I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
 * <b> Amazon Interview </b> 
-  * [Amazon Interview 2018](https://github.com/Competitive-Programming-2/amazon-interview-2018)
+  * [Amazon Interview 2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
 
 ## Contributions
  * **Azure SDK for Java**
