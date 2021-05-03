@@ -29,7 +29,7 @@ It is a place where programmers from all over the world come together to solve p
 
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
-- Visiting my [web site](https://francesco.scuccimarri.it) 🌎
+- Visiting my [web site](https://scuccimarri.it) 🌎
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
