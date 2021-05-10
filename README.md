@@ -1,7 +1,6 @@
 ### Hi, I'm Francesco 👋
 
 I'm a software developer who is passionate about creating new stuff by using different technologies. </br>
-I work especially with web technologies and I like very much the world around the web.</br>
 When I can, I put myself in the game by participating to the challenges of competitive programming.
 
 
