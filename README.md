@@ -22,10 +22,9 @@ It is a place where programmers from all over the world come together to solve p
   * [Amazon Interview 2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
 
 ## Contributions
- * **Azure SDK for Java**
-   * [Azure Service Bus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
-   * [Azure Storage](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
-
+* [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
+* [Azure Storage SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
+*  [JPAStreamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://scuccimarri.it) 🌎
