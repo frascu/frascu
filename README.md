@@ -9,6 +9,7 @@ This type of programming is very attractive to me because it allows me to improv
 I partecipated to the following competitions:
 * <b> Advent of Code</b> </br>Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
   * [Advent of Code 2020](https://github.com/frascu-competitive-programming/Advent-of-Code-2020)
+  * [Advent of Code 2021](https://github.com/frascu/advent-of-code-2021)
 * <b>Google Hash Code</b></br> Google’s team-based programming competition to solve a problem modeled off a real Google engineering challenge.
   * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
   * [Hash Code 2018 - Qualification Round](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound) as Competitor
