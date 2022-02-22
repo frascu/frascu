@@ -5,22 +5,16 @@ When I can, I put myself in the game by participating to the challenges of compe
 
 
 ## Competitive Programming
-This type of programming is very attractive to me because it allows me to improve my problem solving skill. </br>
-I partecipated to the following competitions:
-* <b> Advent of Code</b> </br>Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
-  * [Advent of Code 2021](https://github.com/frascu/advent-of-code-2021)
-  * [Advent of Code 2020](https://github.com/frascu-competitive-programming/Advent-of-Code-2020)
-* <b>Google Hash Code</b></br> Google’s team-based programming competition to solve a problem modeled off a real Google engineering challenge.
-  * [Hash Code 2020 - Qualification Round](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/) as Hub Organizer and Competitor
-  * [Hash Code 2018 - Qualification Round](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound) as Competitor
-  * [Hash Code 2017 - Qualification Round](https://github.com/frascu-competitive-programming/HashCode2017-QualificationRound) as Competitor
-* <b>Google Code Jam</b> </br> Google's longest running global coding competition, where programmers of all levels put their skills to the test.
-  * [Code Jam 2020 - Qualification Round](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound) 
-  * [Code Jam 2017 - Qualification Round](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound) and [Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A)
-* <b>HackerRank</b> </br> 
-It is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains. I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
-* <b> Amazon Interview </b> 
-  * [Amazon Interview 2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
+* <b> Advent of Code</b>: Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
+   * [2020](https://github.com/frascu-competitive-programming/Advent-of-Code-2020), [2021](https://github.com/frascu/advent-of-code-2021)
+* <b>Google Hash Code</b>: Team-based programming competition to solve a problem modeled off a real Google engineering challenge.
+   * [2017](https://github.com/frascu-competitive-programming/HashCode2017-QualificationRound), [2018](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound), [2020](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/)
+* <b>Google Code Jam</b>:  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
+   * [2017](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound), [2017 Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A), [2020](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound)
+* <b>HackerRank</b>: It is a place where programmers from all over the world solve problems in a wide range of Computer Science domains. 
+   * I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
+* <b> Amazon Interview </b>
+   * [2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
 
 ## Contributions
 * [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
