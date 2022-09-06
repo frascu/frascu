@@ -24,7 +24,7 @@ When I can, I put myself in the game by participating to the challenges of compe
 * [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
-- Visiting my [web site](https://scuccimarri.it) 🌎
+- Visiting my [web site](https://frascu.github.io) 🌎
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
