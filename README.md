@@ -21,7 +21,8 @@ When I can, I put myself in the game by participating to the challenges of compe
 * [Azure Storage SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
 *  [JPAStreamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
-* [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo
+* [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo.
+* [JHipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate, develop and deploy modern web applications and microservice architectures.
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
