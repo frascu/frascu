@@ -16,7 +16,7 @@ When I can, I put myself in the game by participating to the challenges of compe
 * <b> Amazon Interview </b>
    * [2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
 
-## Contributions
+## Open Source Contributions
 * [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
 * [Azure Storage SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
 *  [JPAStreamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
