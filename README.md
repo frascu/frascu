@@ -10,8 +10,7 @@ When I can, I put myself in the game by participating to the challenges of compe
    * [2017](https://github.com/frascu-competitive-programming/HashCode2017-QualificationRound), [2018](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound), [2020](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/)
 * <b>Google Code Jam</b>:  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
    * [2017](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound), [2017 Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A), [2020](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound)
-* <b>HackerRank</b>: It is a place where programmers from all over the world solve problems in a wide range of Computer Science domains. 
-   * I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
+* [HackerRank profile](https://www.hackerrank.com/frascu)
 *  [Amazon Interview](https://github.com/frascu/amazon-interview-2018)
 
 ## Open Source Contributions
