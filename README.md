@@ -5,8 +5,7 @@ When I can, I put myself in the game by participating to the challenges of compe
 
 
 ## Competitive Programming
-* <b> Advent of Code</b>: Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
-   * [2020](https://github.com/frascu-competitive-programming/Advent-of-Code-2020), [2021](https://github.com/frascu/advent-of-code-2021)
+* [Advent of Code](https://github.com/frascu/advent-of-code): Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
 * <b>Google Hash Code</b>: Team-based programming competition to solve a problem modeled off a real Google engineering challenge.
    * [2017](https://github.com/frascu-competitive-programming/HashCode2017-QualificationRound), [2018](https://github.com/frascu-competitive-programming/HashCode2018-QualificationRound), [2020](https://web.archive.org/web/20201008164840/https://klopotekhashcode2020.github.io/)
 * <b>Google Code Jam</b>:  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
