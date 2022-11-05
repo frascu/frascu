@@ -12,8 +12,7 @@ When I can, I put myself in the game by participating to the challenges of compe
    * [2017](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound), [2017 Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A), [2020](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound)
 * <b>HackerRank</b>: It is a place where programmers from all over the world solve problems in a wide range of Computer Science domains. 
    * I solved several problems for the skills <i>Problem solving</i>, <i>Java</i>, <i>SQL</i> with my [HackerRank profile](https://www.hackerrank.com/frascu).
-* <b> Amazon Interview </b>
-   * [2018](https://github.com/frascu-competitive-programming/amazon-interview-2018)
+*  [Amazon Interview](https://github.com/frascu/amazon-interview-2018)
 
 ## Open Source Contributions
 * [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
