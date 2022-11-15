@@ -6,10 +6,9 @@ I'm a software developer who is passionate about creating new stuff by using dif
 I put myself in the game by participating to the challenges of competitive programming. You can find my solutions in the following links:
 * [Advent of Code](https://github.com/frascu/advent-of-code): Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
 * [Google Hash Code](https://github.com/frascu/google-hash-code): Team-based programming competition to solve a problem modeled off a real Google engineering challenge.
-* <b>Google Code Jam</b>:  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
-   * [2017](https://github.com/frascu-competitive-programming/CodeJam2017-QualificationRound), [2017 Round 1A](https://github.com/frascu-competitive-programming/CodeJam2017-Round1A), [2020](https://github.com/frascu-competitive-programming/CodeJam2020-QualificationRound)
+* [Google Code Jam](https://github.com/frascu/google-code-jam):  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
 * [HackerRank profile](https://www.hackerrank.com/frascu)
-*  [Amazon Interview](https://github.com/frascu/amazon-interview-2018)
+* [Amazon Interview](https://github.com/frascu/amazon-interview-2018)
 
 ## Open Source Contributions
 * [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
