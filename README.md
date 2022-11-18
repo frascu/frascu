@@ -16,7 +16,9 @@ I put myself in the game by participating to the challenges of competitive progr
 *  [JPAStreamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 * [Java Design Patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
 * [Hugo PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo.
-* [JHipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate, develop and deploy modern web applications and microservice architectures.
+* [JHipster](https://www.jhipster.tech/) - Development platform to generate, develop and deploy modern web applications and microservice architectures.
+  * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged)
+  * [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Aprogress%2Cmerged)
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
