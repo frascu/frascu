@@ -2,6 +2,8 @@
 
 I'm a software developer who is passionate about creating new stuff by using different technologies. </br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frascu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
 ## Competitive Programming
 I put myself in the game by participating to the challenges of competitive programming. You can find my solutions in the following links:
 * [Advent of Code](https://github.com/frascu/advent-of-code): Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
