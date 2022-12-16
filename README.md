@@ -1,16 +1,18 @@
 ### Hi, I'm Francesco 👋
 
-I'm a software developer who is passionate about creating new stuff by using different technologies. </br>
+I'm a software developer who is passionate about creating new stuff by using different technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frascu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 ## Competitive Programming
-I put myself in the game by participating to the challenges of competitive programming. You can find my solutions in the following links:
-* [Advent of Code](https://github.com/frascu/advent-of-code): Advent calendar of small programming puzzles for a variety of skill sets and skill levels.
-* [Google Hash Code](https://github.com/frascu/google-hash-code): Team-based programming competition to solve a problem modeled off a real Google engineering challenge.
-* [Google Code Jam](https://github.com/frascu/google-code-jam):  Google's longest running global coding competition, where programmers of all levels put their skills to the test.
-* [HackerRank profile](https://www.hackerrank.com/frascu)
-* [Amazon Interview](https://github.com/frascu/amazon-interview-2018)
+I put myself in the game by participating to the challenges of competitive programming.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frascu&repo=advent-of-code&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/frascu/advent-of-code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frascu&repo=google-hash-code&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/frascu/google-hash-code)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frascu&repo=google-code-jam&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/frascu/google-code-jam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frascu&repo=amazon-interview-2018&show_owner=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/frascu/amazon-interview-2018)
 
 ## Open Source Contributions
 * [Azure Service Bus SDK for Java](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
