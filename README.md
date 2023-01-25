@@ -23,6 +23,7 @@ I put myself in the game by participating to the challenges of competitive progr
 * [JHipster](https://www.jhipster.tech/) - Development platform to generate, develop and deploy modern web applications and microservice architectures.
   * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged)
   * [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Aprogress%2Cmerged)
+* [osget](https://github.com/gnarlin/osget/pulls?q=is%3Amerged+is%3Apr+author%3Afrascu+) - Operating system image downloader which acts more like a package manager 
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
