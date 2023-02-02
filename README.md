@@ -26,8 +26,8 @@ I have contributed to the following projects. You can view my pull request and m
 *  [jpa-streamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
 * [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo.
-* [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate, develop and deploy modern web applications and microservice architectures.
-* [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Aprogress%2Cmerged) - Documentation for Jhipster Generator
+* [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generateweb applications and microservice architectures.
+* [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Aprogress%2Cmerged) - Documentation for JHipster Generator
 * [osget](https://github.com/gnarlin/osget/pulls?q=is%3Amerged+is%3Apr+author%3Afrascu+) - Operating system image downloader which acts more like a package manager 
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
