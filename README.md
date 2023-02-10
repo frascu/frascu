@@ -2,7 +2,7 @@
 
 I'm a Software Developer who is passionate about creating new stuff by using different technologies.
 - 💼 I am currently working with [Java](https://dev.java/) and [Spring Boot](https://spring.io/projects/spring-boot) in a [Kubernetes](https://kubernetes.io/) environment on [Azure](https://azure.microsoft.com) Cloud.
-- :heart: I like to automate stuff with [Python](https://www.python.org/)
+- :heart: I like to automate stuff with [Python](https://www.python.org/) and [Github Actions](https://github.com/features/actions).
 - 🔄 I’m currently learning [Kotlin](https://kotlinlang.org/) 
 - 🧑🏽‍💻 I enjoy participating in [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming) competitions
 - 👨🏽‍🔧 I contribute to some [Open Source](https://opensource.org/about) projects
