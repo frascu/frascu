@@ -29,7 +29,8 @@ I have contributed to the following projects. You can view my pull request and m
 * [jpa-streamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
 * [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo.
-* [osget](https://github.com/gnarlin/osget/pulls?q=is%3Amerged+is%3Apr+author%3Afrascu+) - Operating system image downloader which acts more like a package manager 
+* [osget](https://github.com/gnarlin/osget/pulls?q=is%3Amerged+is%3Apr+author%3Afrascu+) - Operating system image downloader which acts more like a package manager .
+* [photoprism_client](https://github.com/mvlnetdev/photoprism_client/pulls?q=is%3Apr+author%3Afrascu+is%3Aclosed) - Python client to interact with photoprism. 
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
