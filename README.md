@@ -30,7 +30,8 @@ I have contributed to the following projects. You can view my pull request and m
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
 * [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Theme for the static site generator Hugo.
 * [osget](https://github.com/gnarlin/osget/pulls?q=is%3Amerged+is%3Apr+author%3Afrascu+) - Operating system image downloader which acts more like a package manager .
-* [photoprism_client](https://github.com/mvlnetdev/photoprism_client/pulls?q=is%3Apr+author%3Afrascu+is%3Aclosed) - Python client to interact with photoprism. 
+* [photoprism_client](https://github.com/mvlnetdev/photoprism_client/pulls?q=is%3Apr+author%3Afrascu+is%3Aclosed) - Python client to interact with photoprism.
+* [diagramsascode](https://github.com/diagramsascode/diagramsascode/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Generate valid diagrams from source code.
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
