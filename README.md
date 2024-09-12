@@ -20,6 +20,7 @@ I put myself in the game by participating to the challenges of competitive progr
 
 ## Open Source Contributions
 I have contributed to the following projects. You can view my pull request and merges on these links.
+* [langchain4j](https://github.com/langchain4j/langchain4j/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Java version of LangChain
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate web applications and microservice architectures.
 * [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Documentation for JHipster Generator
 * [jhipster-lite](https://github.com/jhipster/jhipster-lite/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate web applications & microservices architecture.
