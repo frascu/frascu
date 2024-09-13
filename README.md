@@ -24,8 +24,8 @@ I have contributed to the following projects. You can view my pull requests and 
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate web applications and microservice architectures.
 * [jhipster.github.io](https://github.com/jhipster/jhipster.github.io/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Documentation for JHipster Generator
 * [jhipster-lite](https://github.com/jhipster/jhipster-lite/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Development platform to generate web applications & microservices architecture.
-* [azure-sdk-for-java - Service Bus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
-* [azure-sdk-for-java - Storage](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
+* [azure-sdk-for-java/azure-messaging-servicebus](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3A%22Service+Bus%22) - Cloud message broker with message queues and publish-subscribe topics.
+* [azure-sdk-for-java/azure-storage-file-share](https://github.com/Azure/azure-sdk-for-java/pulls?q=is%3Apr+is%3Aclosed+author%3Afrascu+review%3Aapproved+label%3AStorage) - Cloud service that provides storage.
 * [tika-helm](https://github.com/apache/tika-helm/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu) - A Helm chart to deploy Apache Tika on Kubernetes. 
 * [jpa-streamer](https://github.com/speedment/jpa-streamer/pulls?q=is%3Apr+is%3Amerged+author%3Afrascu+) - Library for expressing JPA/Hibernate/Spring queries using standard Java streams.
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Site for showcasing Java Design Patterns.
