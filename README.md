@@ -33,7 +33,7 @@ I have contributed to the following projects. You can view my pull requests and 
 * [photoprism_client](https://github.com/mvlnetdev/photoprism_client/pulls?q=is%3Apr+author%3Afrascu+is%3Aclosed) - Python client to interact with photoprism.
 * [diagramsascode](https://github.com/diagramsascode/diagramsascode/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Generate valid diagrams from source code.
 ## Find me around the web: 
-- Sharing updates on <a href="https://www.linkedin.com/in/francesco-scuccimarri/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/frascu/">LinkedIn</a> 💼
 - Visiting my [web site](https://frascu.github.io) 🌎
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
