@@ -10,6 +10,7 @@ I'm a Software Engineer who is passionate about creating new stuff by using diff
 
 ## Competitive Programming
 I put myself in the game by participating to the challenges of competitive programming.
+
 [![Readme Card](https://github-readme-stats-seven-rose-47.vercel.app/api/pin/?username=frascu&repo=advent-of-code&show_owner=true&title_color=ffffff&icon_color=f9f9f8&text_color=9f9f9f&bg_color=151515)](https://github.com/frascu/advent-of-code)
 [![Readme Card](https://github-readme-stats-seven-rose-47.vercel.app/api/pin/?username=frascu&repo=google-hash-code&show_owner=true&title_color=fff&icon_color=f9f9f8&text_color=9f9f9f&bg_color=151515)](https://github.com/frascu/google-hash-code)
 
