@@ -1,10 +1,12 @@
 ### Hi, I'm Francesco 👋
 
-I'm a Software Engineer who is passionate about creating new stuff by using different technologies.
-- 💼 I am currently working with [Java](https://dev.java/) and [Spring Boot](https://spring.io/projects/spring-boot).
-- :heart: I like to automate stuff with [Python](https://www.python.org/).
-- 🧑🏽‍💻 I enjoy participating in [Competitive Programming](https://en.wikipedia.org/wiki/Competitive_programming) competitions
-- 👨🏽‍🔧 I contribute to some [Open Source](https://opensource.org/about) projects
+I’m a Software Engineer who is passionate about building things using different technologies.
+
+- 💼 I am currently working with Java, Spring Boot, Python and FastAPI.
+- 🧪 I am exploring Spec-Driven Development as the new standard for AI-assisted software engineering, leveraging agents and skills.
+- ❤️ I like to automate stuff with Python.
+- 🧑🏽‍💻 I enjoy participating in Competitive Programming competitions
+- 👨🏽‍🔧 I contribute to some Open Source projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frascu&title_color=ffffff&icon_color=f9f9f8&text_color=9f9f9f&bg_color=151515)
 
