@@ -3,7 +3,7 @@
 I’m a Software Engineer who is passionate about building things using different technologies.
 
 - 💼 I am currently working with Java, Spring Boot, Python and FastAPI.
-- 🧪 I am exploring Spec-Driven Development as the new standard for AI-assisted software engineering, leveraging agents and skills.
+- 🧪 I am exploring Spec-Driven Development for AI-assisted engineering with agents & skills.
 - ❤️ I like to automate stuff with Python.
 - 🧑🏽‍💻 I enjoy participating in Competitive Programming competitions
 - 👨🏽‍🔧 I contribute to some Open Source projects
