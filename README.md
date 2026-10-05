@@ -37,7 +37,7 @@ I have contributed to the following projects. You can view my pull requests and 
 * [diagramsascode](https://github.com/diagramsascode/diagramsascode/pulls?q=is%3Apr+author%3Afrascu+is%3Amerged) - Generate valid diagrams from source code.
 ## Find me around the web: 
 - Sharing updates on <a href="https://www.linkedin.com/in/frascu/">LinkedIn</a> 💼
-- Visiting my [web site](https://frascu.github.io) 🌎
+- Visiting my [web site](https://frascu.pages.dev) 🌎
 <!--
 **frascu/frascu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
